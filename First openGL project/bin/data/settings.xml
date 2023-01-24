@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Card_preview />
+<Transformation>
+	<Geo_Color>152, 103, 66, 255</Geo_Color>
+	<Size_Box_>1</Size_Box_>
+	<Height>4.23</Height>
+	<Radius>1</Radius>
+	<Position>
+		<Position_X>7.34694</Position_X>
+		<Position_Y>7.34694</Position_Y>
+		<Position_Z>0</Position_Z>
+	</Position>
+	<Scaling>
+		<Scaling_X>9.14286</Scaling_X>
+		<Scaling_Y>9.07143</Scaling_Y>
+		<Scaling_Z>12.1429</Scaling_Z>
+	</Scaling>
+	<Rotation>
+		<Rotation_X>0</Rotation_X>
+		<Rotation_Y>0</Rotation_Y>
+		<Rotation_Z>0</Rotation_Z>
+	</Rotation>
+</Transformation>
+<Batch_transformation>
+	<Position>
+		<Position_X>43.3673</Position_X>
+		<Position_Y>57.9082</Position_Y>
+		<Position_Z>29.2857</Position_Z>
+	</Position>
+	<Scaling>
+		<Scaling_X>2.07143</Scaling_X>
+		<Scaling_Y>4.28571</Scaling_Y>
+		<Scaling_Z>5.71429</Scaling_Z>
+	</Scaling>
+	<Rotation>
+		<Rotation_X>31</Rotation_X>
+		<Rotation_Y>42</Rotation_Y>
+		<Rotation_Z>69</Rotation_Z>
+	</Rotation>
+</Batch_transformation>
